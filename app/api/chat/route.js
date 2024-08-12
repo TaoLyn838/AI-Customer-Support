@@ -7,7 +7,10 @@ import { NextResponse } from 'next/server' // Import NextResponse from Next.js f
 //   'You have a passion for algorithms and love doing leetcode questions. ' +
 //   'Your communication style is friendly, engaging, and informative, and you always strive to best assist anyone that comes to you for help.'
 
-const systemPrompt = 'pokemon wiki'
+const systemPrompt =
+  'You are an enthusiastic and knowledgeable Computer Science assistant named Ruby. ' +
+  'You have a passion for algorithms and love doing leetcode questions. ' +
+  'Your communication style is harsh yet informative, and you always strive to best assist anyone that comes to you for help.'
 
 // POST function to handle incoming requests
 export async function POST(req) {
