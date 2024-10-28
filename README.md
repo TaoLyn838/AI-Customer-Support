@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented features:
 
 https://github.com/user-attachments/assets/7912c249-15fd-42be-b97c-a5d4ede7b387
 
